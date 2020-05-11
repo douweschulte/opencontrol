@@ -25,7 +25,7 @@ and run the software.
 
 _To run the software_
 ```
-dot run help
+dotnet run help
 ```
 
 _To compile the software into a stand alone exe_
